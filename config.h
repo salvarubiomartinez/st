@@ -13,7 +13,7 @@ static int borderpx = 2;
  * expects farbfeld format
  * pseudo transparency fixes coordinates to the screen origin
  */
-static const char *bgfile = "/home/retterblond/Apps/st/test.ff";
+static const char *bgfile = "/home/retterblond/Pictures/wallpapers/dark_circle_gray_black_9834_1920x1080_terminal.ff";
 static const int pseudotransparency = 1;
 
 
